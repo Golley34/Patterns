@@ -1,0 +1,1 @@
+{"version":3,"file":"Alligator.js","sourceRoot":"","sources":["../../ts/animals/Alligator.ts"],"names":[],"mappings":";AAAA,MAAM,SAAU,SAAQ,cAAc;IAGlC;QACI,KAAK,EAAE,CAAA;QACP,IAAI,CAAC,WAAW,GAAG,WAAW,CAAA;IAClC,CAAC;IAEM,OAAO;QACV,OAAO,IAAI,CAAC,WAAW,CAAA;IAC3B,CAAC;IAEM,IAAI;QACP,KAAK,CAAC,sBAAsB,CAAC,CAAA;IACjC,CAAC;CACJ"}

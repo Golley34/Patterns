@@ -1,0 +1,1 @@
+{"version":3,"file":"AbstractAnimalCreator.js","sourceRoot":"","sources":["../../ts/Factory/AbstractAnimalCreator.ts"],"names":[],"mappings":";AAAA,MAAe,qBAAqB;IAGzB,YAAY,CAAC,UAAkB,EAAE,SAAiB;QACrD,MAAM,MAAM,GAAG,IAAI,CAAC,aAAa,EAAE,CAAC;QAEpC,MAAM,CAAC,aAAa,CAAC,UAAU,EAAE,SAAS,CAAC,CAAC;QAE5C,OAAO,MAAM,CAAC;IAClB,CAAC;CACJ"}
